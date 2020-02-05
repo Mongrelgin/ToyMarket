@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Учёба\СИ\Labs\Lab7\Source.cpp(155): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab7.vcxproj -> D:\Учёба\СИ\Labs\Lab7\Debug\Lab7.exe
